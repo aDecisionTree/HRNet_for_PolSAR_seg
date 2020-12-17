@@ -5,13 +5,21 @@ HH, HV, VH, VV SAR Images sizes: 512*512
 
 ## INPUT DIR
 /input_path/1_HH.tiff
+
 /input_path/1_VH.tiff
+
 /input_path/1_HV.tiff
+
 /input_path/1_VV.tiff
+
 /input_path/2_HH.tiff
+
 /input_path/2_VH.tiff
+
 /input_path/2_HV.tiff
+
 /input_path/2_VV.tiff
+
 ...
 
 ## OUTPUT DIR
